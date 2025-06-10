@@ -1,0 +1,632 @@
+[
+  {
+    "id": "cd26e660-409b-46fc-a71f-4894fdd33e2b",
+    "height": 116.46,
+    "width": 97.05,
+    "depth": 88.55,
+    "weight": 30.0,
+    "boxes": [
+      {
+        "id": "baa4641a-70ea-44ad-b31e-392d57f9b9ad",
+        "height": 15.2,
+        "width": 46.58,
+        "depth": 36.94,
+        "weight": 2.31,
+        "dateOfProduction": "24.02.2025",
+        "expirationDate": "21.06.2025"
+      },
+      {
+        "id": "b6cdb74e-369e-47f0-8e89-701218f47c57",
+        "height": 24.31,
+        "width": 51.36,
+        "depth": 44.93,
+        "weight": 1.09,
+        "dateOfProduction": "10.05.2025",
+        "expirationDate": "28.11.2025"
+      },
+      {
+        "id": "d1eb26c1-cd4f-475e-804d-3faa5a4aaf0d",
+        "height": 12.92,
+        "width": 31.47,
+        "depth": 68.32,
+        "weight": 8.47,
+        "dateOfProduction": "25.05.2025",
+        "expirationDate": "04.12.2025"
+      },
+      {
+        "id": "2b0c5559-dfcd-468a-b7be-0c5cba17fdeb",
+        "height": 13.88,
+        "width": 19.13,
+        "depth": 74.07,
+        "weight": 7.39,
+        "dateOfProduction": "13.05.2025",
+        "expirationDate": "20.09.2025"
+      },
+      {
+        "id": "ee1164eb-8b80-438e-b9fd-41db2b05c90e",
+        "height": 10.25,
+        "width": 50.47,
+        "depth": 39.09,
+        "weight": 2.91,
+        "dateOfProduction": "02.05.2025",
+        "expirationDate": "23.10.2025"
+      },
+      {
+        "id": "42555161-5722-440f-8c1e-703e9d9b9dde",
+        "height": 29.16,
+        "width": 70.96,
+        "depth": 67.61,
+        "weight": 4.47,
+        "dateOfProduction": "21.04.2025",
+        "expirationDate": "04.11.2025"
+      }
+    ]
+  },
+  {
+    "id": "1a82e51f-dfa9-43de-adba-04341e6bc47b",
+    "height": 93.6,
+    "width": 70.19,
+    "depth": 86.69,
+    "weight": 30.0,
+    "boxes": [
+      {
+        "id": "6be665f6-898e-4c3a-97b2-7e6e135f5c07",
+        "height": 19.71,
+        "width": 46.68,
+        "depth": 77.2,
+        "weight": 1.39,
+        "dateOfProduction": "22.05.2025",
+        "expirationDate": "18.04.2027"
+      },
+      {
+        "id": "e686292e-0871-4250-bc28-43637cc4c204",
+        "height": 10.13,
+        "width": 62.17,
+        "depth": 30.06,
+        "weight": 5.26,
+        "dateOfProduction": "12.07.2024",
+        "expirationDate": "22.09.2024"
+      },
+      {
+        "id": "0b1ab023-53a3-4fcc-ae8c-c005cfcea0d4",
+        "height": 25.18,
+        "width": 63.75,
+        "depth": 83.9,
+        "weight": 5.21,
+        "dateOfProduction": "22.07.2024",
+        "expirationDate": "12.10.2024"
+      },
+      {
+        "id": "2474665d-432a-4fb0-95cf-98280f38c486",
+        "height": 15.25,
+        "width": 24.85,
+        "depth": 31.11,
+        "weight": 3.23,
+        "dateOfProduction": "15.06.2024",
+        "expirationDate": "09.09.2027"
+      },
+      {
+        "id": "16678cfe-93c1-4394-bbfd-f9d0e204ee44",
+        "height": 26.24,
+        "width": 21.15,
+        "depth": 45.42,
+        "weight": 2.88,
+        "dateOfProduction": "12.11.2024",
+        "expirationDate": "08.01.2025"
+      },
+      {
+        "id": "dbec8d7c-b8bd-4ae0-a825-1006ef1cc41f",
+        "height": 15.24,
+        "width": 50.23,
+        "depth": 51.5,
+        "weight": 9.25,
+        "dateOfProduction": "03.08.2024",
+        "expirationDate": "28.09.2024"
+      },
+      {
+        "id": "37909723-ca15-454b-9444-4537e30b7f27",
+        "height": 21.62,
+        "width": 25.08,
+        "depth": 83.66,
+        "weight": 9.2,
+        "dateOfProduction": "24.05.2025",
+        "expirationDate": "25.04.2027"
+      },
+      {
+        "id": "c15d4c9e-8d46-4cd4-876d-6a81ea3d94f1",
+        "height": 23.0,
+        "width": 34.46,
+        "depth": 24.29,
+        "weight": 2.27,
+        "dateOfProduction": "03.06.2025",
+        "expirationDate": "08.02.2027"
+      },
+      {
+        "id": "2589ac48-001a-4b51-a12a-405fa1eed6f3",
+        "height": 20.32,
+        "width": 56.22,
+        "depth": 12.81,
+        "weight": 3.82,
+        "dateOfProduction": "21.04.2025",
+        "expirationDate": "27.11.2025"
+      }
+    ]
+  },
+  {
+    "id": "7ce0b39a-ecf4-47e4-a729-c1c70729839c",
+    "height": 116.51,
+    "width": 80.39,
+    "depth": 65.64,
+    "weight": 30.0,
+    "boxes": [
+      {
+        "id": "0ba3ae50-a980-437b-b00b-49b70a84e42d",
+        "height": 13.52,
+        "width": 25.39,
+        "depth": 32.9,
+        "weight": 9.21,
+        "dateOfProduction": "25.05.2025",
+        "expirationDate": "07.05.2027"
+      },
+      {
+        "id": "65d577f9-da0a-40dd-8c97-46dfb2abda40",
+        "height": 19.18,
+        "width": 11.17,
+        "depth": 41.55,
+        "weight": 2.26,
+        "dateOfProduction": "28.05.2025",
+        "expirationDate": "15.04.2027"
+      },
+      {
+        "id": "492c2d20-6fcc-4ff8-847d-41b1dc451b87",
+        "height": 15.39,
+        "width": 10.36,
+        "depth": 20.68,
+        "weight": 5.22,
+        "dateOfProduction": "05.07.2024",
+        "expirationDate": "17.09.2024"
+      },
+      {
+        "id": "9f0e3d8a-5b9e-4028-82ee-58b858a44d5c",
+        "height": 27.0,
+        "width": 56.57,
+        "depth": 47.94,
+        "weight": 4.82,
+        "dateOfProduction": "22.05.2025",
+        "expirationDate": "03.02.2027"
+      },
+      {
+        "id": "30d51c78-8750-45ea-ae2e-d2598ebfd2ff",
+        "height": 28.73,
+        "width": 13.45,
+        "depth": 28.71,
+        "weight": 7.29,
+        "dateOfProduction": "02.06.2025",
+        "expirationDate": "05.05.2027"
+      },
+      {
+        "id": "ca46ca08-a5f0-4f82-a43c-f82e0feea70e",
+        "height": 13.84,
+        "width": 50.86,
+        "depth": 44.9,
+        "weight": 7.73,
+        "dateOfProduction": "21.05.2025",
+        "expirationDate": "21.08.2026"
+      },
+      {
+        "id": "60500687-6188-48a0-985b-61465af1739f",
+        "height": 16.32,
+        "width": 72.74,
+        "depth": 52.39,
+        "weight": 3.62,
+        "dateOfProduction": "23.05.2025",
+        "expirationDate": "21.09.2025"
+      },
+      {
+        "id": "40da29e2-c8b9-4482-a42f-9c216e3f1006",
+        "height": 11.83,
+        "width": 76.76,
+        "depth": 44.69,
+        "weight": 2.72,
+        "dateOfProduction": "01.06.2025",
+        "expirationDate": "03.08.2026"
+      },
+      {
+        "id": "6e4269b8-113d-4107-a015-a8e7cfe23dd3",
+        "height": 17.0,
+        "width": 41.44,
+        "depth": 42.59,
+        "weight": 3.3,
+        "dateOfProduction": "25.05.2025",
+        "expirationDate": "17.02.2027"
+      },
+      {
+        "id": "ac404a31-6a48-4665-b9e3-0c5e86a35dd1",
+        "height": 18.27,
+        "width": 31.15,
+        "depth": 51.72,
+        "weight": 4.65,
+        "dateOfProduction": "02.05.2025",
+        "expirationDate": "23.09.2025"
+      }
+    ]
+  },
+  {
+    "id": "214300a6-278f-4010-928a-c5aed3994518",
+    "height": 101.29,
+    "width": 94.2,
+    "depth": 85.6,
+    "weight": 30.0,
+    "boxes": [
+      {
+        "id": "62db712c-a0d3-41ef-951e-5849fd2f6bd4",
+        "height": 14.84,
+        "width": 67.38,
+        "depth": 60.74,
+        "weight": 1.23,
+        "dateOfProduction": "08.06.2024",
+        "expirationDate": "21.07.2024"
+      },
+      {
+        "id": "c8b0bb27-3104-4fdd-871a-f2bfd5777c7e",
+        "height": 16.25,
+        "width": 80.87,
+        "depth": 34.76,
+        "weight": 9.78,
+        "dateOfProduction": "16.05.2025",
+        "expirationDate": "08.09.2025"
+      },
+      {
+        "id": "9d9da51b-eb5e-4744-bf3d-e2ccc0847ce7",
+        "height": 16.88,
+        "width": 13.81,
+        "depth": 34.63,
+        "weight": 3.26,
+        "dateOfProduction": "19.07.2024",
+        "expirationDate": "30.08.2024"
+      },
+      {
+        "id": "a652b7a3-c7da-42fa-b6b2-3bab25a224d6",
+        "height": 19.68,
+        "width": 41.86,
+        "depth": 42.62,
+        "weight": 9.18,
+        "dateOfProduction": "25.06.2024",
+        "expirationDate": "14.08.2024"
+      },
+      {
+        "id": "a04560d8-9b5e-4cf0-91f4-965fe762992c",
+        "height": 18.98,
+        "width": 70.44,
+        "depth": 35.88,
+        "weight": 9.17,
+        "dateOfProduction": "24.05.2025",
+        "expirationDate": "28.09.2026"
+      }
+    ]
+  },
+  {
+    "id": "f6562ae6-f924-416c-ae9d-276af4ad3c98",
+    "height": 82.76,
+    "width": 93.74,
+    "depth": 75.13,
+    "weight": 30.0,
+    "boxes": [
+      {
+        "id": "b2c825ea-a230-440d-87ce-0fb5f99343ea",
+        "height": 13.85,
+        "width": 70.66,
+        "depth": 44.22,
+        "weight": 8.97,
+        "dateOfProduction": "12.05.2025",
+        "expirationDate": "09.11.2025"
+      },
+      {
+        "id": "dbd80f7f-0ae9-4706-9677-dba12de07cfa",
+        "height": 12.06,
+        "width": 81.39,
+        "depth": 32.03,
+        "weight": 5.67,
+        "dateOfProduction": "25.07.2024",
+        "expirationDate": "28.08.2024"
+      },
+      {
+        "id": "e6e7c639-0863-49cf-8093-5f76e09fba05",
+        "height": 22.31,
+        "width": 45.36,
+        "depth": 26.47,
+        "weight": 9.58,
+        "dateOfProduction": "26.05.2025",
+        "expirationDate": "01.11.2025"
+      },
+      {
+        "id": "e3bce5d6-be46-47e4-b0c2-afab02422d4e",
+        "height": 22.27,
+        "width": 72.34,
+        "depth": 11.81,
+        "weight": 6.5,
+        "dateOfProduction": "21.05.2025",
+        "expirationDate": "08.06.2026"
+      },
+      {
+        "id": "6637fa6d-5638-48bc-9622-96eae998629c",
+        "height": 19.6,
+        "width": 49.1,
+        "depth": 14.63,
+        "weight": 8.28,
+        "dateOfProduction": "07.10.2024",
+        "expirationDate": "24.12.2024"
+      },
+      {
+        "id": "2b2071da-53bb-413a-9cf9-6efe0772fcdd",
+        "height": 10.01,
+        "width": 50.88,
+        "depth": 49.92,
+        "weight": 3.72,
+        "dateOfProduction": "22.06.2024",
+        "expirationDate": "19.02.2025"
+      },
+      {
+        "id": "106197d9-0b7f-4ba1-856f-348f7072b380",
+        "height": 15.56,
+        "width": 34.14,
+        "depth": 69.47,
+        "weight": 8.02,
+        "dateOfProduction": "12.10.2024",
+        "expirationDate": "12.12.2024"
+      },
+      {
+        "id": "434a5fa8-78eb-41ea-af1c-900b7d9e4e8a",
+        "height": 20.26,
+        "width": 37.48,
+        "depth": 53.4,
+        "weight": 9.95,
+        "dateOfProduction": "30.05.2025",
+        "expirationDate": "08.05.2027"
+      }
+    ]
+  },
+  {
+    "id": "126fcf6d-081a-4023-b450-a31a32b4400e",
+    "height": 113.91,
+    "width": 82.38,
+    "depth": 61.83,
+    "weight": 30.0,
+    "boxes": [
+      {
+        "id": "a4bac094-a463-46b6-be4b-16f99bfcab7d",
+        "height": 10.69,
+        "width": 15.35,
+        "depth": 51.72,
+        "weight": 3.4,
+        "dateOfProduction": "28.05.2025",
+        "expirationDate": "14.10.2025"
+      },
+      {
+        "id": "5b436c1f-21d5-4c20-ac6c-12f90d839882",
+        "height": 19.56,
+        "width": 31.24,
+        "depth": 37.58,
+        "weight": 9.09,
+        "dateOfProduction": "22.05.2025",
+        "expirationDate": "28.01.2027"
+      },
+      {
+        "id": "ea746cfe-551b-44db-a4e7-3d2a5880df31",
+        "height": 27.97,
+        "width": 62.52,
+        "depth": 47.01,
+        "weight": 7.45,
+        "dateOfProduction": "24.04.2025",
+        "expirationDate": "09.10.2025"
+      }
+    ]
+  },
+  {
+    "id": "9bfc44d9-5494-47f6-ab56-7603c0c053f8",
+    "height": 96.06,
+    "width": 81.91,
+    "depth": 77.16,
+    "weight": 30.0,
+    "boxes": [
+      {
+        "id": "340ba5b5-bc19-471c-9dee-2a371be478cd",
+        "height": 12.35,
+        "width": 24.64,
+        "depth": 50.04,
+        "weight": 7.73,
+        "dateOfProduction": "22.04.2025",
+        "expirationDate": "14.11.2025"
+      },
+      {
+        "id": "8b273d6e-cd62-4d9f-8edc-904c1b7ece1a",
+        "height": 18.29,
+        "width": 25.55,
+        "depth": 30.68,
+        "weight": 6.84,
+        "dateOfProduction": "06.01.2025",
+        "expirationDate": "13.04.2027"
+      },
+      {
+        "id": "51f76a86-078b-4903-91e2-71f08aacd3f3",
+        "height": 24.27,
+        "width": 79.84,
+        "depth": 54.77,
+        "weight": 3.56,
+        "dateOfProduction": "23.09.2024",
+        "expirationDate": "06.12.2024"
+      },
+      {
+        "id": "d8746d8c-bc27-4647-8403-5d4ca8de21da",
+        "height": 28.77,
+        "width": 27.26,
+        "depth": 13.76,
+        "weight": 1.65,
+        "dateOfProduction": "12.09.2024",
+        "expirationDate": "19.10.2024"
+      }
+    ]
+  },
+  {
+    "id": "9971f5f6-8477-493c-b43e-d09c73b4eeea",
+    "height": 106.73,
+    "width": 98.92,
+    "depth": 93.48,
+    "weight": 30.0,
+    "boxes": [
+      {
+        "id": "6d9bc538-a5ca-4c86-861b-eb7e7cae22e9",
+        "height": 22.91,
+        "width": 44.1,
+        "depth": 66.83,
+        "weight": 5.04,
+        "dateOfProduction": "29.09.2024",
+        "expirationDate": "10.11.2024"
+      },
+      {
+        "id": "80c52372-eb67-494e-b69d-2d311964d678",
+        "height": 10.32,
+        "width": 81.54,
+        "depth": 65.51,
+        "weight": 7.41,
+        "dateOfProduction": "06.05.2024",
+        "expirationDate": "18.07.2024"
+      },
+      {
+        "id": "ac7d5af5-7757-49cf-94d2-8b4360dad999",
+        "height": 26.09,
+        "width": 67.57,
+        "depth": 91.74,
+        "weight": 4.02,
+        "dateOfProduction": "15.05.2025",
+        "expirationDate": "21.10.2025"
+      },
+      {
+        "id": "a6d2a526-c432-4454-a93e-604ced6fc728",
+        "height": 17.52,
+        "width": 29.12,
+        "depth": 11.52,
+        "weight": 9.54,
+        "dateOfProduction": "14.11.2024",
+        "expirationDate": "24.12.2024"
+      }
+    ]
+  },
+  {
+    "id": "ce458d75-c97b-4cda-b5f7-c7d42cd26651",
+    "height": 95.04,
+    "width": 60.7,
+    "depth": 61.49,
+    "weight": 30.0,
+    "boxes": [
+      {
+        "id": "7b2bbbfe-8c3e-42e1-9ad8-12479315e954",
+        "height": 20.56,
+        "width": 35.65,
+        "depth": 10.6,
+        "weight": 2.86,
+        "dateOfProduction": "18.05.2025",
+        "expirationDate": "23.09.2025"
+      },
+      {
+        "id": "a43eaa57-3509-4adc-823d-eca2b22c12d3",
+        "height": 11.11,
+        "width": 11.2,
+        "depth": 46.24,
+        "weight": 3.06,
+        "dateOfProduction": "05.05.2025",
+        "expirationDate": "15.10.2025"
+      },
+      {
+        "id": "18a252f9-4c43-44c0-93c4-aa1ab7b54e0f",
+        "height": 14.44,
+        "width": 41.06,
+        "depth": 31.89,
+        "weight": 3.15,
+        "dateOfProduction": "18.07.2024",
+        "expirationDate": "14.09.2025"
+      },
+      {
+        "id": "820e2829-a654-458d-adaa-40d14a451d01",
+        "height": 20.01,
+        "width": 29.27,
+        "depth": 50.27,
+        "weight": 3.82,
+        "dateOfProduction": "22.05.2025",
+        "expirationDate": "15.11.2025"
+      },
+      {
+        "id": "277c8249-1d43-4128-9def-75d7f3398e06",
+        "height": 22.95,
+        "width": 12.13,
+        "depth": 23.69,
+        "weight": 3.38,
+        "dateOfProduction": "03.06.2025",
+        "expirationDate": "17.03.2027"
+      },
+      {
+        "id": "c4079489-9f78-4615-9a83-657a4ad43b8d",
+        "height": 20.36,
+        "width": 21.51,
+        "depth": 16.16,
+        "weight": 3.02,
+        "dateOfProduction": "09.05.2025",
+        "expirationDate": "14.10.2025"
+      },
+      {
+        "id": "7b34f210-2ce9-45ab-b409-4266895aac16",
+        "height": 16.67,
+        "width": 57.57,
+        "depth": 46.55,
+        "weight": 9.23,
+        "dateOfProduction": "26.04.2025",
+        "expirationDate": "14.10.2025"
+      }
+    ]
+  },
+  {
+    "id": "99f5ec5c-1a4f-42ff-8a4b-dc69ef0d11f6",
+    "height": 102.53,
+    "width": 69.26,
+    "depth": 87.36,
+    "weight": 30.0,
+    "boxes": [
+      {
+        "id": "a269bc6a-2dee-4326-aca5-2c622aa581af",
+        "height": 22.21,
+        "width": 26.54,
+        "depth": 60.64,
+        "weight": 2.45,
+        "dateOfProduction": "26.05.2025",
+        "expirationDate": "28.10.2025"
+      },
+      {
+        "id": "0ce858c2-6132-436b-b128-0036ee33e523",
+        "height": 11.94,
+        "width": 29.47,
+        "depth": 44.22,
+        "weight": 2.11,
+        "dateOfProduction": "22.05.2025",
+        "expirationDate": "10.11.2025"
+      },
+      {
+        "id": "b62bec93-0850-4b7c-a893-d72c5364685e",
+        "height": 18.09,
+        "width": 42.81,
+        "depth": 38.89,
+        "weight": 8.83,
+        "dateOfProduction": "19.06.2024",
+        "expirationDate": "19.08.2024"
+      },
+      {
+        "id": "44c2c3ed-3ccf-47ce-a5b1-722183d99641",
+        "height": 12.26,
+        "width": 31.62,
+        "depth": 84.61,
+        "weight": 9.13,
+        "dateOfProduction": "14.11.2024",
+        "expirationDate": "04.02.2025"
+      }
+    ]
+  }
+]
