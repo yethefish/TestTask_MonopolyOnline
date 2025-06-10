@@ -1,4 +1,4 @@
-# TestTask_MonopolyOnline
+# TestTask_Monopoly
 Тестовое задание для Monopoly
 ---
 
